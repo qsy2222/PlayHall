@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/GameHome.png</file>
+        <file>images/q151020-01.png</file>
+        <file>images/style.png</file>
+        <file>face/btn_avatar_a0.png</file>
+        <file>face/btn_avatar_a2.png</file>
+        <file>face/btn_avatar_a5.png</file>
+        <file>chesscards/pc_weiqi.jpg</file>
+        <file>icon/slotwait.png</file>
+        <file>icon/avatar_10.png</file>
+    </qresource>
+</RCC>
